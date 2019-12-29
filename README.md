@@ -1,6 +1,6 @@
 # portfolio
 
-Third iteration of my personal website built with Jekyll.
+My website!
 
 ## Dependencies
 
