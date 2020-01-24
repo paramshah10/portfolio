@@ -17,6 +17,7 @@
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
     "browser-sync": "^2.26.7",
+    "gh-pages": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-clean-css": "^3.10.0",
@@ -24,5 +25,6 @@
     "gulp-imagemin": "6.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "3.0.2"
-  }
+  },
+  "dependencies": {}
 }

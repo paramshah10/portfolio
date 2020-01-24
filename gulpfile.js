@@ -9,3 +9,13 @@ const sync = require('./build/browsersync');
 });
 
 gulp.task('build', ['sass', 'scripts', 'images', 'jekyll-build']);
+
+var deploy = require('gulp-gh-pages');
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+  return gulp.src("./build/**/*")
+    .pipe(deploy())
+});
