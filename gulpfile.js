@@ -17,5 +17,8 @@ var deploy = require('gulp-gh-pages');
  */
 gulp.task('deploy', function () {
   return gulp.src("./build/**/*")
-    .pipe(deploy())
+    .pipe(deploy({
+      remoteUrl: "https://github.com/paramshah10/paramshah10.github.io.git",
+      branch: "master"
+    }))
 });
