@@ -1,18 +1,22 @@
 # Site settings
-name: Param Shah
-title: Param Shah
+name: Brittany Chiang
+title: Brittany Chiang | Front End Software Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://paramshah10.github.io/portfolio
+url: https://bchiang7.github.io/
 baseurl: ''
-email: paramshah@ucla.edu
-cover: https://paramshah10.github.io/portfolio/img/og.png
-logo: https://paramshah10.github.io/portfolio/img/emojis/male-technologist.png
-resume: https://paramshah10.github.io/portfolio/resume.pdf
+email: paramshah@g.ucla.edu
+cover: https://bchiang7.github.io/img/og.png
+logo: https://bchiang7.github.io/img/emojis/technologist.png
+resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:paramshah@ucla.edu
+    url: mailto:paramshah@g.ucla.edu
+  - title: twitter
+    url: https://twitter.com/bchiang7
   - title: instagram
-    url: https://instagram.com/_param__
+    url: https://instagram.com/bchiang7
+  - title: codepen
+    url: http://codepen.io/bchiang7
   - title: github
     url: https://github.com/paramshah10
   - title: linkedin

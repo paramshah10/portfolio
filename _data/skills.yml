@@ -1,18 +1,31 @@
 languages:
-  - item: C++
-  - item: C
+  - item: JavaScript
   - item: Python
+  - item: C
+  - item: C++
   - item: HTML
   - item: CSS
-  - item: R
+  - item: Swift
 
 frameworks:
   - item: React
   - item: React Native
+  - item: Flask
+  - item: Node
+  - item: D3
 
 tools:
   - item: Bash
   - item: Git & Github
+  - item: Shell scripting
   - item: Linux
-  - item: Shell
+  - item: Agile
   - item: Emacs
+
+ds-ml:
+  - item: TensorFlow
+  - item: Keras
+  - item: Pandas
+  - item: Scikit-learn
+  - item: Numpy
+  - item: MATLAB

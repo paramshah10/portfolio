@@ -1,9 +1,19 @@
-- company: Bruin Spacecraft Group
-  url: https://bruinspace.com/
-  time: April 2019 - Present
-  position: Software Lead
+- company: eHealth Research Lab
+  url: http://er.cs.ucla.edu/
+  time: March 2020 - Present
+  position: Software Developer and Data Science Intern
 
-- company: UCLA Creative Labs
+- company: Creative Labs UCLA
   url: https://www.creativelabsucla.com/
-  time: October 2019 - December 2019
+  time: Jan - March 2020
+  position: Project Lead
+
+- company: Bruin Spacecraft Group
+  url: http://bruinspace.com/
+  time: April 2019 - March 2020
+  position: Lead Software Engineer
+
+- company: Creative Labs UCLA
+  url: https://www.creativelabsucla.com/
+  time: Sept - Dec 2019
   position: Software Developer
