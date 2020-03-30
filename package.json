@@ -4,9 +4,9 @@
   "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "https://github.com/paramshah10/paramshah10.github.io/portfolio"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "https://github.com/paramshah10/paramshah10.github.io/portfolio",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",
