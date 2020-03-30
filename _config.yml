@@ -1,9 +1,9 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+name: Param Shah
+title: Param Shah
+description: Sophomore majoring in CS @ UCLA
 url: https://paramshah10.github.io/portfolio
-baseurl: ''
+baseurl: '/'
 email: paramshah@g.ucla.edu
 cover: https://paramshah10.github.io/portfolio/img/og.png
 logo: https://paramshah10.github.io/portfolio/img/emojis/technologist.png
