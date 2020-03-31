@@ -1,12 +1,12 @@
 {
-  "name": "brittanychiang.com",
+  "name": "paramshah.net",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "Sophomore at UCLA majoring in Computer Science",
   "repository": {
     "type": "git",
     "url": "https://github.com/paramshah10/paramshah10.github.io/portfolio"
   },
-  "homepage": "https://github.com/paramshah10/paramshah10.github.io/portfolio",
+  "homepage": "paramshah.net",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",

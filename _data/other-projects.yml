@@ -1,7 +1,7 @@
-- name: Project Rapid
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+- name: UCLA Research Satellite (URSa)
+  url: https://bruinspace.com/projects/rapid.html
+  code: https://bruinspace.com/projects/rapid.html
+  description: URSa is a high powered spacecraft bus developed by BruinSpace at UCLA. As a lead software engineer, my team and I am responsible for building the onboard flight computer with embedded systems software.
   used:
     - thing: C/C++
     - thing: Python
@@ -9,19 +9,20 @@
     - thing: Embedded Systems Programming
 
 - name: NYC Taxi Trip Duration Predictor
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+  url: https://github.com/paramshah10/get-that-data/tree/master/Taxi%20Ride%20Duration
+  code: https://github.com/paramshah10/get-that-data/tree/master/Taxi%20Ride%20Duration
+  description: A predictive ML model that analyzes NYC taxi-cab data to accurately predict the duration of taxi trips in NYC using tools like data selection and cleaning, EDA, feature engineering, and model selection.
   used:
+    - thing: Python
     - thing: TensorFlow
     - thing: Scikit-learn
     - thing: Pandas
     - thing: Matplotlib
 
 - name: SMS News Service
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+  url: https://github.com/paramshah10/SMS-backend
+  code: https://github.com/paramshah10/SMS-backend
+  description: An SMS-based news platform that allows users to get their news whenever, wherever, and whatever they want. Primary focus of the project includes people in low income areas without reliable internet connection and people affected by recent natural disasters.
   used:
     - thing: Flask
     - thing: Heroku
@@ -29,37 +30,33 @@
     - thing: Ngrok
 
 - name: FL!P
-  url: https://bchiang7.github.io/Redesign-myNEU/
-  code: https://github.com/bchiang7/Redesign-myNEU
-  description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
-   <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
+  url: https://github.com/paramshah10/Idea-Hacks-2020
+  code: https://github.com/paramshah10/Idea-Hacks-2020
+  description: A device that automatically scans your book for you and turns it into an audio book for you to listen. This device deos everything from flipping the pages, to taking a picture of the text and turning it into audio, to playing audio through bluetooth.
+   <a class="small" href="https://devpost.com/software/the-fl-p">🏆 Won Best Education Hack at IdeaHacks 2020 🏆</a>
   used:
-    - thing: Jekyll
-    - thing: HTML
-    - thing: SCSS
-    - thing: JavaScript
+    - thing: Python
+    - thing: Bash
+    - thing: Shell Scripting
+    - thing: Google Vision API
+    - thing: Microsoft NLP API
 
 - name: Heart Disease Classifier
-  url: https://github.com/crowddj/crowddj-react
-  code: https://github.com/crowddj/crowddj-react
-  description:
-    A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
+  url: https://github.com/paramshah10/get-that-data/tree/master/Heart%20Disease
+  code: https://github.com/paramshah10/get-that-data/tree/master/Heart%20Disease
+  description: A binary classification model that is trained on the UC Irvine dataset and is able to detect whether a patient is in risk of a heart disease or not.
   used:
-    - thing: React
-    - thing: Sass
-    - thing: Firebase
-    - thing: Spotify API
+    - thing: Python
+    - thing: Scikit-learn
+    - thing: Pandas
+    - thing: Matplotlib
 
-- name: Airbnb Price Predictor
-  url: http://quiet-dusk-89245.herokuapp.com/
-  code: https://github.com/bchiang7/DemoWebApp
-  description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
-  img: weather
+- name: NYC Airbnb Price Predictor
+  url: https://github.com/paramshah10/get-that-data/tree/master/NYC%20Airbnb
+  code: https://github.com/paramshah10/get-that-data/tree/master/NYC%20Airbnb
+  description: A simple predictive model that analyzes and predicts the price per night of an Airbnb in NYC. This model is based on the Kaggle NYC Airbnb data.
   used:
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Node.js
-    - thing: Express
-    - thing: Heroku
-    - thing: OpenWeatherMap API
-    - thing: Google Maps API
+    - thing: Python
+    - thing: Scikit-learn
+    - thing: Pandas
+    - thing: Matplotlib
