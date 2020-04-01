@@ -2,12 +2,12 @@
 name: Param Shah
 title: Param Shah
 description: Sophomore at UCLA majoring in Computer Science
-url: https://paramshah10.github.io/portfolio
+url: https://paramshah.net
 baseurl: '/'
 email: paramshah@g.ucla.edu
-cover: https://paramshah10.github.io/portfolio/img/og.png
-logo: https://paramshah10.github.io/portfolio/img/emojis/technologist.png
-resume: https://paramshah10.github.io/portfolio/resume.pdf
+cover: https://paramshah.net/img/og.png
+logo: https://paramshah.net/img/emojis/technologist.png
+resume: https://paramshah.net/resume.pdf
 social:
   - title: email
     url: mailto:paramshah@g.ucla.edu
