@@ -11,8 +11,9 @@ frameworks:
   - item: React
   - item: React Native
   - item: Flask
-  - item: Node
-  - item: D3
+  - item: Node.js
+  - item: Express.js
+  - item: Chart.js
 
 tools:
   - item: Bash
@@ -28,4 +29,3 @@ ds-ml:
   - item: Pandas
   - item: Scikit-learn
   - item: Numpy
-  - item: MATLAB

@@ -1,3 +1,22 @@
+- name: The Data Grid
+  url: https://github.com/paramshah10/CNN-toilet-flush
+  code: https://github.com/paramshah10/CNN-toilet-flush
+  description: Constructed a convolutional neural network to classify audio files as being one of the classes [toilet, urinal, sink, unknown]. The purpose of this project is to automate the detection and counting of toilet/urinal/sink uses in a given time period from an audio device so that the amount of water used by a given bathroom over a specified time period can be calculated.
+  used:
+    -thing: TensorFlow
+    -thing: Keras
+    -thing: Pandas
+
+- name: The Good Fridge
+  url: https://github.com/TheGoodFridge-App/server-tgf
+  code: https://github.com/TheGoodFridge-App/server-tgf
+  description: Built a Flask web server that handles CRUD API requests from an iOS app. Used web scraping and sentiment analyses to categorize a food product based on its ethical score.
+  used:
+    -thing: Flask
+    -thing: Google Cloud Natural Language
+    -thing: Beautiful Soup
+
+
 - name: UCLA Research Satellite (URSa)
   url: https://bruinspace.com/projects/rapid.html
   code: https://bruinspace.com/projects/rapid.html
@@ -9,8 +28,8 @@
     - thing: Embedded Systems Programming
 
 - name: NYC Taxi Trip Duration Predictor
-  url: https://github.com/paramshah10/get-that-data/tree/master/Taxi%20Ride%20Duration
-  code: https://github.com/paramshah10/get-that-data/tree/master/Taxi%20Ride%20Duration
+  url: https://github.com/paramshah10/get-that-data/
+  code: https://github.com/paramshah10/get-that-data/
   description: A predictive ML model that analyzes NYC taxi-cab data to accurately predict the duration of taxi trips in NYC using tools like data selection and cleaning, EDA, feature engineering, and model selection.
   used:
     - thing: Python
@@ -42,8 +61,8 @@
     - thing: Microsoft NLP API
 
 - name: Heart Disease Classifier
-  url: https://github.com/paramshah10/get-that-data/tree/master/Heart%20Disease
-  code: https://github.com/paramshah10/get-that-data/tree/master/Heart%20Disease
+  url: https://github.com/paramshah10/get-that-data/
+  code: https://github.com/paramshah10/get-that-data/
   description: A binary classification model that is trained on the UC Irvine dataset and is able to detect whether a patient is in risk of a heart disease or not.
   used:
     - thing: Python
@@ -52,8 +71,8 @@
     - thing: Matplotlib
 
 - name: NYC Airbnb Price Predictor
-  url: https://github.com/paramshah10/get-that-data/tree/master/NYC%20Airbnb
-  code: https://github.com/paramshah10/get-that-data/tree/master/NYC%20Airbnb
+  url: https://github.com/paramshah10/get-that-data/
+  code: https://github.com/paramshah10/get-that-data/
   description: A simple predictive model that analyzes and predicts the price per night of an Airbnb in NYC. This model is based on the Kaggle NYC Airbnb data.
   used:
     - thing: Python
