@@ -3,18 +3,18 @@
   code: https://github.com/paramshah10/CNN-toilet-flush
   description: Constructed a convolutional neural network to classify audio files as being one of the classes [toilet, urinal, sink, unknown]. The purpose of this project is to automate the detection and counting of toilet/urinal/sink uses in a given time period from an audio device so that the amount of water used by a given bathroom over a specified time period can be calculated.
   used:
-    -thing: TensorFlow
-    -thing: Keras
-    -thing: Pandas
+    - thing: TensorFlow
+    - thing: Keras
+    - thing: Pandas
 
 - name: The Good Fridge
   url: https://github.com/TheGoodFridge-App/server-tgf
   code: https://github.com/TheGoodFridge-App/server-tgf
   description: Built a Flask web server that handles CRUD API requests from an iOS app. Used web scraping and sentiment analyses to categorize a food product based on its ethical score.
   used:
-    -thing: Flask
-    -thing: Google Cloud Natural Language
-    -thing: Beautiful Soup
+    - thing: Flask
+    - thing: Google Cloud Natural Language
+    - thing: Beautiful Soup
 
 
 - name: UCLA Research Satellite (URSa)
