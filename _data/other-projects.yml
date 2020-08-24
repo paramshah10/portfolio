@@ -12,6 +12,7 @@
   code: https://github.com/TheGoodFridge-App/server-tgf
   description: Built a Flask web server that handles CRUD API requests from an iOS app. Used web scraping and sentiment analyses to categorize a food product based on its ethical score.
   used:
+    - thing: Firebase (Firestore, Auth)
     - thing: Flask
     - thing: Google Cloud Natural Language
     - thing: Beautiful Soup

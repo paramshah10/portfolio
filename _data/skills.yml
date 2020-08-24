@@ -1,11 +1,10 @@
 languages:
-  - item: JavaScript
   - item: Python
+  - item: JavaScript
   - item: C
   - item: C++
   - item: HTML
   - item: CSS
-  - item: Swift
 
 frameworks:
   - item: React
@@ -13,7 +12,6 @@ frameworks:
   - item: Flask
   - item: Node.js
   - item: Express.js
-  - item: Chart.js
 
 tools:
   - item: Bash
@@ -21,11 +19,9 @@ tools:
   - item: Shell scripting
   - item: Linux
   - item: Agile
-  - item: Emacs
 
 ds-ml:
   - item: TensorFlow
-  - item: Keras
   - item: Pandas
   - item: Scikit-learn
   - item: Numpy
