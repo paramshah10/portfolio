@@ -1,10 +1,8 @@
 languages:
   - item: Python
   - item: JavaScript
-  - item: C
-  - item: C++
-  - item: HTML
-  - item: CSS
+  - item: C/++
+  - item: HTML/CSS
 
 frameworks:
   - item: React
@@ -14,10 +12,10 @@ frameworks:
   - item: Express.js
 
 tools:
+  - item: AWS
+  - item: Google Firebase
   - item: Bash
   - item: Git & Github
-  - item: Shell scripting
-  - item: Linux
   - item: Agile
 
 ds-ml:
