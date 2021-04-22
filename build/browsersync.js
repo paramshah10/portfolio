@@ -16,13 +16,13 @@ const templatePath = [
 module.exports = gulp => {
   // run `jekyll build`
   gulp.task('jekyll-build', done => {
-    return cp.spawn(jekyll, ['build'], { stdio: 'inherit' }).on('close', done);
+    return cp.exec(jekyll, ['build'], { stdio: 'inherit' }).on('close', done);
   });
 
   // run `jekyll build` with _config_dev.yml
   gulp.task('jekyll-dev', done => {
     return cp
-      .spawn(jekyll, ['build', '--config', '_config.yml,_config_dev.yml'], {
+      .exec(jekyll, ['build', '--config', '_config.yml,_config_dev.yml'], {
         stdio: 'inherit',
       })
       .on('close', done);
