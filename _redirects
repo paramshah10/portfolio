@@ -1,0 +1,9 @@
+/cal            https://calendly.com/paramshah
+/gh             https://github.com/paramshah10
+/li             https://www.linkedin.com/in/paramshah10/
+/meta           https://github.com/paramshah10/portfolio/blob/master/_redirects
+/zoom           https://ucla.zoom.us/my/paramshah
+/ig             https://instagram.com/_param_shah
+
+#fallback
+/*              https://paramshah.net
