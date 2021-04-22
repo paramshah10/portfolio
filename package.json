@@ -10,7 +10,8 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
-    "build": "gulp build"
+    "build": "gulp build",
+    "shorten": "netlify-shortener"
   },
   "author": "Param Shah",
   "license": "ISC",
@@ -23,6 +24,7 @@
     "gulp-eslint": "^6.0.0",
     "gulp-imagemin": "6.0.0",
     "gulp-sass": "^4.1.0",
-    "gulp-uglify": "3.0.2"
+    "gulp-uglify": "3.0.2",
+    "netlify-shortener": "^2.4.0"
   }
 }
