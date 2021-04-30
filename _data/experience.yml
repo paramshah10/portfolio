@@ -1,7 +1,9 @@
 - company: Amazon
+  url: https://www.aboutamazon.com/
   position: Incoming Software Development Engineer (SDE) Intern
 
 - company: Elio
+  url: http://elio.earth/
   time: September 2020 - Present
   position: Full Stack Engineer
 
@@ -17,7 +19,7 @@
 
 - company: Creative Labs UCLA
   url: https://www.creativelabsucla.com/
-  time: Jan - March 2020
+  time: Jan 2020 - March 2020
   position: Project Lead
 
 - company: Bruin Spacecraft Group
@@ -27,5 +29,5 @@
 
 - company: Creative Labs UCLA
   url: https://www.creativelabsucla.com/
-  time: Sept - Dec 2019
+  time: Sept 2019 - Dec 2019
   position: Software Developer
