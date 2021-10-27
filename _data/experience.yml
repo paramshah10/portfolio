@@ -1,20 +1,25 @@
 - company: Amazon
   url: https://www.aboutamazon.com/
-  position: Incoming Software Development Engineer (SDE) Intern
+  position: Incoming Software Development Engineer I (SDE I)
 
 - company: Elio
   url: http://elio.earth/
   time: September 2020 - Present
-  position: Full Stack Engineer
+  position: Lead Software Engineer
+
+- company: Amazon
+  url: https://www.aboutamazon.com/
+  time: June 2021 - September 2021
+  position: Software Development Engineer (SDE) Intern
 
 - company: Pearl
-  url: https://www.trypearl.io/
+  url: https://www.usepearl.com/
   time: June 2020 - September 2020
   position: Backend Developer Intern
 
 - company: eHealth Research Lab
   url: http://er.cs.ucla.edu/
-  time: March 2020 - Present
+  time: March 2020 - March 2021
   position: Full Stack Developer Intern
 
 - company: Creative Labs UCLA

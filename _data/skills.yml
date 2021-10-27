@@ -1,6 +1,6 @@
 languages:
+  - item: JavaScript/Typescript
   - item: Python
-  - item: JavaScript
   - item: C/++
   - item: HTML/CSS
 
@@ -13,6 +13,7 @@ frameworks:
 
 tools:
   - item: AWS
+  - item: AWS CDK
   - item: Google Firebase
   - item: Bash
   - item: Git & Github
